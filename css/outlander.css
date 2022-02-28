@@ -4,4 +4,10 @@ body{
 
 header{
 	background-color: olive;
+	text-align: center;
+}
+
+header img{
+	border-radius: 170;
+	width: 300;
 }
