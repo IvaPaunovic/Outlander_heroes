@@ -3,11 +3,25 @@ body{
 }
 
 header{
-	background-color: olive;
+	background-color: #5c642b;
 	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+header h1{
+	color: whitesmoke;
+	font-size: 65px;
+	font-family: 'Press Start 2P', cursive;
+    font-family: 'Tangerine', cursive;
 }
 
 header img{
-	border-radius: 170;
-	width: 300;
+	height: 320px;
+	width: 320px;
+	background-image: "img/claire favicon.jpeg";
+	border-radius: 50%;
+	margin: 20px auto;
+	background-size: cover;
+	border: 10px solid ghostwhite;
 }
